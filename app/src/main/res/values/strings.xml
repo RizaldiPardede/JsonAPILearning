@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasJson</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="lihat_data_mahasiswa">Lihat data mahasiswa</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+</resources>
